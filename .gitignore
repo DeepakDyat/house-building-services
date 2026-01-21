@@ -1,0 +1,22 @@
+# Reports & documents (local only)
+Report/
+Reports/
+Documents/
+
+# Screenshots (local only)
+Screenshots/
+screenshots/
+
+# PDFs and docs
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
